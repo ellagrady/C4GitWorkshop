@@ -11,7 +11,6 @@ This repository contains simple Python scripts to demonstrate basic Git and GitH
 - `hello_world.py`: Prints "Hello, World!" to the console.
 - `calculator.py`: A simple calculator for basic arithmetic operations.
 - `requirements.txt`: Lists the required Python packages.
-- `.gitignore`: Specifies files that Git should ignore.
 
 ## Running the Scripts
 
