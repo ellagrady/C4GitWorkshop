@@ -1,0 +1,3 @@
+### 4. `requirements.txt`
+
+Since these scripts don't require external packages, this file can be empty or include a common package for demonstration.
