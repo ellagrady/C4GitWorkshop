@@ -1,10 +1,11 @@
-# basic hello world function
-# edit this function to print whatever you want
-# once you edit this file, we will use this to learn how to commit changes to your repo
+# helloworld function for git workshop
+# edit string in main to string of choice, use for understanding committing changes to repo
 
-def hello_world(strInput):
-    print(strInput)
+# helloWorld function, takes string of input and prints it out
+def helloWorld(stringInput):
+    print("Printed Output:")
+    print(stringInput)
 
-if __name__== "__main__":
-    print("hello_world function\nPrinted output: ")
-    hello_world("Hello World!")
+if __name__=="__main__":
+    print("testing helloWorld function".upper())
+    helloWorld("Hello World!")
