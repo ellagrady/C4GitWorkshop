@@ -2,6 +2,10 @@
 
 This repository contains simple Python scripts to demonstrate basic Git and GitHub operations.
 
+## Branches
+- main: branch containing `README.md` and `requirements.txt` files
+- Hello-World: branch off main, containing  `hello_world.py`
+- Calculator: branch off main, containing `calculator.py`
 ## Contents
 
 - `hello_world.py`: Prints "Hello, World!" to the console.
